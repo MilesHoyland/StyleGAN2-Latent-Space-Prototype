@@ -20,3 +20,8 @@ As the original prototype was developed as an aid for creating music videos of l
 https://www.youtube.com/watch?v=asWtEElDVRA
 
 https://www.youtube.com/watch?v=6LbgJcaGX-s
+
+
+Some of the pretrained networks used can be found at the following repo, though ny pretrained StyleGAN2 model can be used.
+
+https://github.com/justinpinkney/awesome-pretrained-stylegan2
